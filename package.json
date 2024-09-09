@@ -1,0 +1,18 @@
+{
+  "name": "npm-inicio-2",
+  "version": "2.3.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Catanio",
+  "license": "ISC",
+  "description": "npm version -y",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "next": "^14.2.8"
+  }
+}
